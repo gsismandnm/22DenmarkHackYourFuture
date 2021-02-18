@@ -11,12 +11,6 @@ body {
 }
 
 .template-div{
-  border-style:solid;
-
-  min-height: fit-content;
+    min-height: fit-content;
  }
 
- .template-button{
-   text: size 25px;
-   weight:25px;
- }
